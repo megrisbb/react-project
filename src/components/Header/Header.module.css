@@ -1,0 +1,14 @@
+.headerMainBlock {
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+    height: 200px;
+    font-size: 20px;
+}
+
+
+.headerMainBlock a {
+    text-decoration: none;
+    align-content: center;
+
+}
